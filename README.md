@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Aditya Giri 👋
 
-<!--
-**adityagiri99/adityagiri99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner developer passionate about technology, coding, and AI.  
+🚀 Currently learning and building projects to improve my skills every day.
 
-Here are some ideas to get you started:
+## About Me
+- Interested in **Python, Web Development, and Artificial Intelligence**
+- I enjoy **building small projects to learn new concepts**
+- Exploring **tech, coding, and creative ideas**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Python programming  
+- Web development (HTML, CSS, JavaScript)  
+- Learning how AI systems work  
+
+## Goals
+- Become a skilled developer
+- Build useful and creative projects
+- Share my learning journey
+
+## Projects
+You can find my projects in the repositories below where I practice coding and experiment with new ideas.
