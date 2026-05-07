@@ -1,6 +1,6 @@
 # Hi, I'm Aditya Giri 👋
 
-💻 Beginner developer passionate about technology, coding, and AI.  
+💻 Developer passionate about technology, coding, and AI.  
 🚀 Currently learning and building projects to improve my skills every day.
 
 ## About Me
